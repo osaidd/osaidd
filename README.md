@@ -2,7 +2,7 @@
 
 Computing student at NUS (Business AI Systems). I mostly build tools I need myself, then clean them up until other people can use them.
 
-**[rental-inbox](https://github.com/osaidd/rental-inbox)** - StreetEasy and Zillow alert emails plus Craigslist, turned into one ranked NYC apartment dashboard. On PyPI: `uvx rental-inbox`
+**[rental-inbox](https://github.com/osaidd/rental-inbox)** - StreetEasy and Zillow alert emails plus Craigslist, turned into one ranked, mapped apartment dashboard for NYC + Jersey City. On PyPI: `uvx rental-inbox`
 
 **[intern-inbox](https://github.com/osaidd/intern-inbox)** - a local internship tracker for NOC New York students. Pulls from job boards and alert emails, keeps only NYC/NJ internships.
 
